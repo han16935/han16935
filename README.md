@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/Docker-3776AB?style=for-the-badge&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>
 </p>
 
 
@@ -50,6 +51,10 @@
   <img src="https://img.shields.io/badge/jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
 </p>
+
+<h3>🤝 Now I'm studying these...</h3>
+<img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white"/>
+
 
 
 
