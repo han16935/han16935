@@ -20,7 +20,7 @@
 <h3>🔧 CI/CD Stack</h3>
 <p>
   <img src="https://img.shields.io/badge/github%20actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=Argo&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=Argo&logoColor=white"/> -->
 </p>
 
 
