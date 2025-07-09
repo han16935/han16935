@@ -71,7 +71,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=han16935&show_icons=true&theme=nord" />
 </p>
 
-<h3> Project </h3>
+<h3> Projects </h3>
 <ul>
    <li>
       <a href="https://github.com/KEA-ChunSam/PlayUs-twp-service">PlayUs - 야구 직관팟 모집 플랫폼 - 직관팟 모듈 Backend 참여</a> <code>2025.03 ~ 2025.06</code>
