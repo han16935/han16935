@@ -70,3 +70,26 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=han16935&show_icons=true&theme=nord" />
 </p>
+
+<h3> Project </h3>
+<ul>
+   <li>
+      <a href="https://github.com/KEA-ChunSam/PlayUs-twp-service">PlayUs - 야구 직관팟 모집 플랫폼 - 직관팟 모듈 Backend 참여</a> <code>2025.03 ~ 2025.06</code>
+   </li>   
+
+   <li>
+      <a href="https://github.com/KEA-ChunSam/PlayUs-search-service">PlayUs - 야구 직관팟 모집 플랫폼 - 검색 모듈 Backend 참여</a> <code>2025.03 ~ 2025.06</code>
+   </li>
+
+   <li>
+      <a href="https://github.com/GCU-Home-Protector">Home-Protector - 아기 얼굴 기반 음악 추천 서비스 - 백엔드, CI/CD, k8s, Terraform 및 AWS 기반 배포 참여 </a> <code>2025.03 ~ 2025.06</code>
+   </li>
+
+   <li>
+      AIIA-GPT - 동아리 소개 서비스 - 백엔드, CI/CD 및 온프레미스 기반 배포 참여 </a> <code>2024.08 ~ 2024.12</code>
+   </li>
+
+   <li>
+      Meta-Gachon - 교내 메타버스 인큐베이터 예약 시스템 - 백엔드 참여 </a> <code>2023.11 ~ 2024.05</code>
+   </li>
+</ul>
