@@ -82,7 +82,7 @@
    </li>
 
    <li>
-      <a href="https://github.com/GCU-Home-Protector">Home-Protector - 아기 얼굴 기반 음악 추천 서비스 - 백엔드, CI/CD, k8s, Terraform 및 AWS 기반 배포 총괄 </a> <code>2024.09 ~ 2025.06</code>
+      <a href="https://github.com/GCU-Home-Protector">Home-Protector - 아기 얼굴 기반 음악 추천 서비스 - 백엔드, CI/CD, k8s, Terraform 및 EKS 기반 배포 총괄 </a> <code>2024.09 ~ 2025.06</code>
    </li>
 
    <li>
