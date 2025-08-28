@@ -74,17 +74,17 @@
 <h3> Projects </h3>
 <ul>
    <li>
+      <a href="https://github.com/GCU-Home-Protector">Home-Protector - 아기 얼굴 기반 음악 추천 서비스 - 백엔드, CI/CD, k8s, Terraform 및 EKS 기반 배포 총괄 </a> <code>2024.09 ~ 2025.06</code>
+   </li>
+
+   <li>
       <a href="https://github.com/KEA-ChunSam/PlayUs-twp-service">PlayUs - 야구 직관팟 모집 플랫폼 - 직관팟 모듈 Backend 참여</a> <code>2025.03 ~ 2025.06</code>
    </li>   
 
    <li>
       <a href="https://github.com/KEA-ChunSam/PlayUs-search-service">PlayUs - 야구 직관팟 모집 플랫폼 - 검색 모듈 Backend 참여</a> <code>2025.03 ~ 2025.06</code>
    </li>
-
-   <li>
-      <a href="https://github.com/GCU-Home-Protector">Home-Protector - 아기 얼굴 기반 음악 추천 서비스 - 백엔드, CI/CD, k8s, Terraform 및 EKS 기반 배포 총괄 </a> <code>2024.09 ~ 2025.06</code>
-   </li>
-
+   
    <li>
       AIIA-GPT - 동아리 소개 서비스 - 백엔드, CI/CD 및 온프레미스 기반 배포 총괄 </a> <code>2024.08 ~ 2024.12</code>
    </li>
