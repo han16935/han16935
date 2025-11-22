@@ -71,6 +71,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=han16935&show_icons=true&theme=nord" />
 </p>
 
+<h3>👩‍💻 My BOJ Stats 👩‍💻</h3>
+<p>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=han16935" />
+</p>
+
 <h3> Projects </h3>
 <ul>
    <li>
