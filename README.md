@@ -66,10 +66,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=han16935&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord" />
 </p>
 
+<!--
 <h3>👩‍💻 My Github Stats 👩‍💻</h3>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=han16935&show_icons=true&theme=nord" />
 </p>
+--!>
 
 <h3>👩‍💻 My BOJ Stats 👩‍💻</h3>
 <p>
