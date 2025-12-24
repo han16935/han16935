@@ -89,6 +89,10 @@
    </li>   
 
    <li>
+      <a href="https://github.com/han16935/PlayUs-twp-service-async">PlayUs - 야구 직관팟 모집 플랫폼 - 직관팟 모듈 - 선착순 신청 기능 개선</a> <code>2025.12</code>
+   </li>
+   
+   <li>
       <a href="https://github.com/KEA-ChunSam/PlayUs-search-service">PlayUs - 야구 직관팟 모집 플랫폼 - 검색 모듈 Backend 참여</a> <code>2025.03 ~ 2025.06</code>
    </li>
    
