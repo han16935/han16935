@@ -28,7 +28,7 @@
 <h3>☁️ Infra Stack</h3>
 <p>
   <img src="https://img.shields.io/badge/Docker-3776AB?style=for-the-badge&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <!--   <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/> -->
 </p>
@@ -60,18 +60,19 @@
 
 
 
-
+<!--
 <h3>💡 김현우's Most Used Languages 💡</h3>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=han16935&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord" />
 </p>
+-->
 
 <!--
 <h3>👩‍💻 My Github Stats 👩‍💻</h3>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=han16935&show_icons=true&theme=nord" />
 </p>
---!>
+-->
 
 <h3>👩‍💻 My BOJ Stats 👩‍💻</h3>
 <p>
@@ -89,7 +90,7 @@
    </li>   
 
    <li>
-      <a href="https://github.com/han16935/PlayUs-twp-service-async">PlayUs - 야구 직관팟 모집 플랫폼 - 직관팟 모듈 - 선착순 신청 기능 개선</a> <code>2025.12</code>
+      <a href="https://github.com/han16935/PlayUs-twp-service-async">PlayUs - 야구 직관팟 모집 플랫폼 - 직관팟 모듈 - 팀 프로젝트 종료 후 Fork한 repo에 성능 개선</a> <code>2025.12</code>
    </li>
    
    <li>
