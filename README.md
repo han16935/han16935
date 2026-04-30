@@ -79,6 +79,14 @@
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=han16935" />
 </p>
 
+<h3> Career </h3>
+<ul>
+   <li>
+      <span> 장기현장실습 - 하마랩[개발(백엔드)] </span> <code>2026.03.03 ~ 2026.06.30</code>
+   </li>
+</ul>
+
+
 <h3> Projects </h3>
 <ul>
    <li>
